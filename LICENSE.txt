@@ -1,0 +1,24 @@
+MthwShell Freeware License
+Copyright (c) 2026 mthwSec. All rights reserved.
+
+Permission is granted, free of charge, to download, install and use official
+MthwShell executable releases for personal and commercial purposes, and to
+make backup copies.
+
+You may share complete, unmodified official release packages without charging
+for them, provided this license and all third-party notices are retained.
+
+MthwShell is proprietary software. Its application source code is not provided
+or licensed for reuse by this license. Ownership is retained by the copyright
+holder. No other rights are granted by these terms.
+
+Third-party components remain governed by their own licenses. See
+THIRD_PARTY_NOTICES.md, THIRD_PARTY_SOURCES.txt and licenses/ in the release
+package. These terms do not restrict rights granted by those licenses or by
+applicable law.
+
+To the extent permitted by applicable law, the software is provided "AS IS",
+without warranties of any kind, express or implied, including merchantability,
+fitness for a particular purpose and noninfringement. The copyright holder is
+not liable for claims, damages or other liability arising from use of the
+software. No support or maintenance commitment is made.
