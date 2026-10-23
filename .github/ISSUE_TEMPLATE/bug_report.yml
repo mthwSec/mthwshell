@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a problem with MthwShell.
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: Please remove account details, private paths and sensitive terminal output before submitting.
+  - type: input
+    id: app-version
+    attributes:
+      label: MthwShell version
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      placeholder: Windows 11, 64-bit
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, what happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional details
+      description: Shell profile, relevant error message, or a screenshot with private information removed.
